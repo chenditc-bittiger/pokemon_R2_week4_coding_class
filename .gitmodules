@@ -1,0 +1,3 @@
+[submodule "crawl_server/crawl_job/mock_pgoapi"]
+	path = crawl_server/crawl_job/mock_pgoapi
+	url = https://github.com/chenditc/mock_pgoapi.git
